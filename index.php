@@ -1,5 +1,5 @@
 <html>
-<body>
+<body style="background-color:blue">
 
 <h1>My first PHP page</h1>
 
