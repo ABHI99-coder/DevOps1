@@ -34,7 +34,7 @@ spec:
 
       - name: my-app-container
 
-        image: sonu10/php:34
+        image: sonu10/php:latest
 
         ports:
 
