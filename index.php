@@ -1,7 +1,7 @@
 <html>
-<body style="background-color:yellow">
+<body style="background-color:red">
 
-<h1>Jenkins Integration and auto push setup from git</h1>
+<h1>Git-Github-Ngrok-Jenkins-Docker-Kubernetes Deployment</h1>
 
 <?php
 $output = shell_exec('ifconfig');
