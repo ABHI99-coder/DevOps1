@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:orange">
+<body style="background-color:yellow">
 
 <h1>Jenkins Integration and auto push setup from git</h1>
 
