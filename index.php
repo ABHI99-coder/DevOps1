@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:violet">
+<body style="background-color:grey">
 
 <h1>Git-Github-Ngrok-Jenkins-Docker-Kubernetes Deployment</h1>
 
